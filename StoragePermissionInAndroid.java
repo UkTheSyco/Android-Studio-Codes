@@ -1,7 +1,7 @@
 //    File sdCard = Environment.getExternalStorageDirectory();
 //    dir = new File (sdCard.getAbsolutePath() + "/Movies/Movie Syco");
 
-//Maintain the for your purpose
+//Maintain this for your purpose
 
 // add below two lines in AndroidManifest.xml
 //<uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
